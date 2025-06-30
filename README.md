@@ -2,7 +2,7 @@
 CSharp Program
 # <h1>1.FizzBuzz</h1>
 ```
-# using System;
+using System;
 namespace CSharpAssesment
 {
 	public class Program
