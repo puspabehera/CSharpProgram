@@ -1,0 +1,23 @@
+﻿# Build folders
+bin/
+obj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+project.assets.json
+*.nuget.cache
+/ConsoleApp1/ConsoleApp1.sln
+/ConsoleApp1/.vs/ConsoleApp1/v17/.suo
