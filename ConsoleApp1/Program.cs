@@ -19,8 +19,13 @@ namespace ConsoleApp1
             //NumberRange.Numbers();
             //Swap.SwapNumber();
             //DivisibleTest.DivNumber();
-            SumMulNumbers.SumEvaluate();
-
+            //SumMulNumbers.SumEvaluate();
+            //MulOf17.MultiSeventeen();
+            //SumOfDigits.DigitsNum();
+            //Binary.SumOfBinary();
+            //Binary2.MulOfBinary();
+            //Calculator.calNum();
+            //Exponant.ExponantProgram();
  
         }
 
