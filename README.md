@@ -39,8 +39,10 @@ namespace CSharpAssesment
 		}
 	}
 }
- ```
-<h1>10's Table</h1>
+```
+# <h1>2. 10's Table</h1>
+
+```
 using System;
 					
 public class Program
@@ -56,5 +58,4 @@ public class Program
 		}
 	}
 }
-
 ```
