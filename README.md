@@ -40,3 +40,19 @@ namespace CSharpAssesment
 	}
 }
  ```
+<h1>10's Table</h1>
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		//10's Table
+		int number = 10;
+		
+		for (int i = 1; i <= 10; i++)
+		{
+		  Console.WriteLine($"{number} * {i} = {number * i}");
+		}
+	}
+}
